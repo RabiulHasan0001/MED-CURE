@@ -23,7 +23,7 @@ We further introduce **SAFE-CUI**, a UMLS-normalized safety evaluation metric th
 - Clinically-tuned **sparse-dense RAG pipeline** with section-aware priors and MMR diversity under strict token budget
 - Input-conditioned **UMLS-grounded knowledge graph** with SapBERT entity linking and relation plausibility constraints
 - Confidence-weighted entity masking and minimal-revision relation plausibility objective during generation
-- Introduction of **SAFE-CUI** — a new UMLS-normalized clinical faithfulness metric
+- Introduction of **SAFE-CUI** - a new UMLS-normalized clinical faithfulness metric
 - Comprehensive evaluation on MIMIC-IV discharge summarization and Open-i radiology report summarization
 - Open-source implementation with reproducible training and evaluation pipeline
 
