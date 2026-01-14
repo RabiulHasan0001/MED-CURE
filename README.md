@@ -27,6 +27,10 @@ We further introduce **SAFE-CUI**, a UMLS-normalized safety evaluation metric th
 - Comprehensive evaluation on MIMIC-IV discharge summarization and Open-i radiology report summarization
 - Open-source implementation with reproducible training and evaluation pipeline
 
+## MED-CURE Summary Generation on MIMIC-IV and Open-i Radiology Dataset
+![MED-CURE Summary Generation on MIMIC-IV Dataset](MED-CURE_Summary_on_MIMIC-IV.png)
+![MED-CURE Summary Generation on Open-i Dataset](MED-CURE_Summary_on_Open-i.png)
+
 
 ## Requirements
 
